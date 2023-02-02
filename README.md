@@ -23,7 +23,7 @@ sudo docker run --name gaze_estimation -p 80:80 aaronpp65/gaze_estimation:v11
 What things you need to install and how to install them
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ## Usage
 
