@@ -7,7 +7,7 @@ Estimate whether the person is looking to the ```left```, ```right``` or ```cent
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ```
-git clone git@github.com:aaronpp65/gaze_estimation.git
+git clone https://github.com/aaronpp65/gaze_estimation.git
 ```
 
 Docker image for gaze estimation api is available at
